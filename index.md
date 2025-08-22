@@ -5,10 +5,10 @@
 
 ## Deployed in Cloud:
 
-![image](https://github.com/user-attachments/assets/c745e5c8-847e-42f2-aeba-296d34ac9b12)
+![image](/assets/aws-arch.png)
 
 ---
-![image](https://github.com/user-attachments/assets/3e087eaa-4d1c-4a1f-a1f9-4708b41ec118)
+![image](/assets/choreskip-landing.png)
 
 ## Overview
 
@@ -28,7 +28,7 @@ choreSkip is a lightweight web application built for shared living spaces—dorm
 - **Spend Points** to skip your own turn—automatically reassigns to your earliest debtor.  
 - **Debt Queue Management**: each time you earn a point, the app logs who you covered; when ou skip, that queue is popped FIFO.
 
-  ![image](https://github.com/user-attachments/assets/942c0977-295d-4a57-a9b6-b92331d709ad)
+  ![image](/assets/trash.png)
 
 
 ### 3. Two Chore Types  
@@ -39,28 +39,28 @@ choreSkip is a lightweight web application built for shared living spaces—dorm
   - Scheduled on a fixed weekday (e.g. “Bathroom” every Wednesday).  
   - Calendar-style reminders keep everyone on track.
  
-  ![image](https://github.com/user-attachments/assets/0d2e7894-522c-4b16-926a-4729860997be)
+  ![image](/assets/registration.png)
 
 
 ### 4. Real-Time Notifications  
 - **Email & SMS alerts** to all roommates whenever any chore is marked complete or skipped.  
 - Summary in each notification: chore name, who acted, next assignee, remaining skip-point balances.
 
-  ![image](https://github.com/user-attachments/assets/265c0e4c-9ed8-432c-a094-6d9b2204bbc9)
+  ![image](/assets/mail-alert.png)
 
 
 ### 5. Fair Round-Robin Seeding  
 - On group creation, chores are **seeded in ID order** across members by join time.  
 - Example with A, B, C and chores 1–5:  
   1 → A • 2 → B • 3 → C • 4 → A • 5 → B  
-  ![image](https://github.com/user-attachments/assets/3cb9efb5-04a2-4ad1-bc60-f25efda42d16)
+  ![image](/assets/homepage.png)
 
 ---
 
 ## How It Works
 
 
-![image](https://github.com/user-attachments/assets/93c14c8e-be04-47d3-91c0-890978f8d0fe)
+![image](/assets/registration2.png)
 
 1. **Sign Up & Create Group**  
    - Invite roommates; once everyone joins, chores auto-seed in round-robin fashion.  
